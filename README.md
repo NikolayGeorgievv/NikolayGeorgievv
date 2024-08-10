@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on [Budged tracking Web Application](https://github.com/NikolayGeorgievv/BudgedTrackerProject)
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikolai-georgiev-55b48a1a9/) or by [Email](mailto:nikolay.va.georgiev@gmail.com)
+- 📫 You can reach me on [via my website](https://nikolaygeorgievv.github.io) or by [Email](mailto:nikolay.va.georgiev@gmail.com)
 <!--
 **NikolayGeorgievv/NikolayGeorgievv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

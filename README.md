@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ["What to eat" web application](https://github.com/NikolayGeorgievv/What-to-eat)
-- 📫 You can reach me on [via my website](https://nikolaygeorgievv.github.io) or by [Email](mailto:nikolay.va.georgiev@gmail.com)
+- 📫 You can reach me [via my website](https://nikolaygeorgievv.github.io) or by [Email](mailto:nikolay.va.georgiev@gmail.com)
 <!--
 **NikolayGeorgievv/NikolayGeorgievv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

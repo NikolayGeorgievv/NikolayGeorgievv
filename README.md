@@ -11,8 +11,11 @@ Full-stack Java developer based in Varna, Bulgaria. Professionally building ente
 ## Tech Stack
 
 **Backend:** Java · Spring Boot · Spring Data · Hibernate · REST APIs · JUnit · Mockito
+
 **Frontend:** Angular · TypeScript · RxJS · Angular Material
+
 **Databases:** PostgreSQL · MySQL · Flyway
+
 **Infrastructure:** Docker · AWS S3 · Cloudflare · Nginx · Linux · Git
 
 ## Contact
